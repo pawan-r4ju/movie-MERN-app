@@ -2,7 +2,6 @@
 # The Movie Hub 🎬
 
 A full-stack movie application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with modern features and a sleek user interface.
-![the overview of the app](/thumb.png)
 ## Features
 
 ### User Features
